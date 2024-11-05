@@ -1,5 +1,5 @@
 # Yusuf-Turgay
-# Merhaba! Ben Yusuf Turgay 👋
+# Merhaba! Ben Yusuf Turgay Ciğer 👋
 
 Veri Analisti Adayı | Yazılım Geliştirici
 
