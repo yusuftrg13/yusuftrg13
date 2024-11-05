@@ -8,6 +8,7 @@ Merhaba, ben Yusuf Turgay. Veri analizi ve makine öğrenimi konularına büyük
 🎓 Eğitim
 
 Lise:Nuran Yılmaz Çok Programlı Anadolu Lisesi
+
 Üniversite:İskenderun Teknik Üniversitesi-Yönetim Bilişim Sistemleri(Devam ediyorum 4.sınıf)
 
 
