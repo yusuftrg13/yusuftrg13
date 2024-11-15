@@ -13,10 +13,13 @@ Lise:Nuran Yılmaz Çok Programlı Anadolu Lisesi
 
 
 💻 Teknik Yetenekler
-Programlama Dilleri: C#, JavaScript, Python, SQL
+Programlama Dilleri: C#, JavaScript, Python, SQL,R(öğrenme aşamasında)
+
 Python Kütüphaneleri: NumPy, Pandas, Matplotlib, Seaborn
+
 Makine Öğrenimi: Şu anda makine öğrenimi alanında eğitim alıyorum.
-Diğer Araçlar:Microsoft Office Programları
+
+Diğer Araçlar:Microsoft Office Programları,Power BI(öğrenme aşamasında)
 
 🔍 Projelerim
 GitHub profilimde çeşitli veri analizi ve makine öğrenimi projelerim mevcut. İşte bazı öne çıkan projeler:
