@@ -13,7 +13,7 @@ Lise:Nuran Yılmaz Çok Programlı Anadolu Lisesi
 
 
 💻 Teknik Yetenekler
-Programlama Dilleri: C#, JavaScript, Python, SQL,R(öğrenme aşamasında)
+Programlama Dilleri: C#, JavaScript, Python, SQL,R(öğrenme aşamasında),Tableu(Öğrenme Aşamasında)
 
 Python Kütüphaneleri: NumPy, Pandas, Matplotlib, Seaborn
 
