@@ -26,7 +26,7 @@ GitHub profilimde çeşitli veri analizi ve makine öğrenimi projelerim mevcut.
 
 1-)Rusya-Ukrayna Savaşı Personel ve Malzeme Kayıp Çalışması:Bu çalışmamda 2 yılı aşkındır süren Rusya-Ukrayna savaşında Rus ordusunun personel ve malzeme kayıpları üzerinde çalıştım böylelikle ekipman-asker ve iki tarafın askeri kabiliyetlerini zamansal olarak inceledim.
 
-2-)TCMB-Verileri: Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından sağlanan ekonomik veriler üzerinde yapılan bir veri analizi çalışmasını içermektedir. Çalışma kapsamında, tüketici fiyat endeksi (TÜFE), USD/TRY kuru, tüketici kredisi faiz oranları ve konut fiyat endeksi gibi çeşitli ekonomik göstergeler arasındaki ilişkiler analiz ederek ekonomik göstergeleri inceledim.
+2-)Gun Violences Usa: ABD'de gerçekleşen silahlı çatışma eylemleri ve bunun sonucunda gerçekleşen ölüm ve yaralama vaka sayılarını inceleyerek eyalet bazlı bir Power Bı çalışması yaptım.
 
 📈 Deneyim
 # Kariyer Kapısı-Ulusal Staj Programı(Bilgi İşlem Departmanı)
