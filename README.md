@@ -1,36 +1,80 @@
 # Yusuf-Turgay
-# Merhaba! Ben Yusuf Turgay Ciğer 👋
-
-Veri Analisti Adayı | Yazılım Geliştirici
-
-Merhaba, ben Yusuf Turgay. Veri analizi ve makine öğrenimi konularına büyük ilgi duyuyorum. Sürekli olarak kendimi geliştirerek, veriden anlam çıkarma, analiz etme ve sonuçları etkili bir şekilde sunma becerilerimi ilerletiyorum.
+🇹🇷 Yusuf Turgay Ciğer
+📊 Veri Analisti Adayı | 💻 Yazılım Geliştirici
+Merhaba! Ben Yusuf Turgay. Veri analizi, makine öğrenimi ve yazılım geliştirme alanlarında kendimi geliştirmeye devam eden bir 4. sınıf Yönetim Bilişim Sistemleri öğrencisiyim. Gerçek veri kümeleriyle projeler geliştiriyor, çeşitli araç ve programlama dilleriyle çalışıyorum. Hedefim; anlamlı içgörüler üreten, karar süreçlerine katkı sağlayan, etkili analizler yapabilen bir veri analisti olmak.
 
 🎓 Eğitim
+Lise: Nuran Yılmaz Çok Programlı Anadolu Lisesi
 
-Lise:Nuran Yılmaz Çok Programlı Anadolu Lisesi
-
-Üniversite:İskenderun Teknik Üniversitesi-Yönetim Bilişim Sistemleri(Devam ediyorum 4.sınıf)
-
+Üniversite: İskenderun Teknik Üniversitesi – Yönetim Bilişim Sistemleri (4. sınıf – Devam Ediyor)
 
 💻 Teknik Yetenekler
-Programlama Dilleri: C#, JavaScript, Python, SQL,R(öğrenme aşamasında),Tableu(Öğrenme Aşamasında)
+Programlama Dilleri: C#, JavaScript, Python, SQL, R (öğrenme aşamasında)
+
+Veri Görselleştirme & Analiz: Power BI (öğrenme aşamasında), Tableau (öğrenme aşamasında)
 
 Python Kütüphaneleri: NumPy, Pandas, Matplotlib, Seaborn
 
-Makine Öğrenimi: Şu anda makine öğrenimi alanında eğitim alıyorum.
+Ofis Araçları: Microsoft Office
 
-Diğer Araçlar:Microsoft Office Programları,Power BI(öğrenme aşamasında)
+🤖 Makine Öğrenimi
+Şu anda makine öğrenimi üzerine aktif olarak eğitim alıyor, projeler geliştiriyorum.
 
-🔍 Projelerim
-GitHub profilimde çeşitli veri analizi ve makine öğrenimi projelerim mevcut. İşte bazı öne çıkan projeler:
+📁 Projelerimden Bazıları
+🇷🇺 Rusya-Ukrayna Savaşı Kayıp Analizi:
+Rusya'nın 2 yılı aşkın süredir süren savaşta personel ve ekipman kayıplarını analiz ederek zaman serisi tabanlı askeri kapasite değerlendirmesi yaptım.
 
-1-)Rusya-Ukrayna Savaşı Personel ve Malzeme Kayıp Çalışması:Bu çalışmamda 2 yılı aşkındır süren Rusya-Ukrayna savaşında Rus ordusunun personel ve malzeme kayıpları üzerinde çalıştım böylelikle ekipman-asker ve iki tarafın askeri kabiliyetlerini zamansal olarak inceledim.
+🔫 Gun Violence USA:
+ABD'deki silahlı saldırıları incelediğim, eyalet bazlı Power BI görselleştirmeleriyle desteklenen analiz çalışması.
 
-2-)Gun Violences Usa: ABD'de gerçekleşen silahlı çatışma eylemleri ve bunun sonucunda gerçekleşen ölüm ve yaralama vaka sayılarını inceleyerek eyalet bazlı bir Power Bı çalışması yaptım.
+💼 Staj ve Deneyim
+T.C. Arsuz Kaymakamlığı - Bilgi İşlem Departmanı (Kariyer Kapısı Ulusal Staj Programı)
+Yaz stajım boyunca kamu sistemleri ve bilgi işlem altyapısı hakkında bilgi edindim.
 
-📈 Deneyim
-# Kariyer Kapısı-Ulusal Staj Programı(Bilgi İşlem Departmanı)
-* T.C. Arsuz Kaymakamlığı'nda Bilgi İşlem departmanında 30 iş günü sürecinde yaz stajı yaptım bu süreçte kamu çalışma sistemini ve bilgi işlem departmanının görevlerini öğrenerek kendimi geliştirme fırsatı buldum.
+SASA POLYESTER A.Ş - Bilgi İşlem Departmanı
+24.02.2025 – 23.06.2025 tarihleri arasında bilgi işlem departmanında aktif stajyer olarak görev almaktayım.
 
-* 📫 Bana Ulaşın
-  E-Posta:ytrc13@gmail.com
+📫 Bana Ulaşın
+E-posta: ytrc13@gmail.com
+
+GitHub: github.com/yusuftrg13
+
+🇬🇧 Yusuf Turgay Ciğer
+📊 Aspiring Data Analyst | 💻 Software Developer
+Hi! I'm Yusuf Turgay, a final-year Management Information Systems student with a strong interest in data analytics, software development, and machine learning. I enjoy working on real-world datasets, uncovering insights, and building meaningful visualizations and models. My goal is to become a data analyst who contributes to informed decision-making through analytical thinking and technical skills.
+
+🎓 Education
+High School: Nuran Yılmaz Multi-Program Anatolian High School
+
+University: İskenderun Technical University – Management Information Systems (4th Year)
+
+💻 Technical Skills
+Programming Languages: C#, JavaScript, Python, SQL, R (learning)
+
+Visualization & Analysis: Power BI (learning), Tableau (learning)
+
+Python Libraries: NumPy, Pandas, Matplotlib, Seaborn
+
+Other Tools: Microsoft Office
+
+🤖 Machine Learning
+Currently training and working on projects in the field of machine learning.
+
+📁 Selected Projects
+🇷🇺 Russia-Ukraine War Losses Analysis:
+A time-based analysis of Russian personnel and equipment losses to assess military capacity over the course of the war.
+
+🔫 Gun Violence in the USA:
+A Power BI dashboard project exploring state-level trends in gun-related deaths and injuries.
+
+💼 Experience
+T.C. Arsuz District Governorship – IT Department
+Summer internship through the National Internship Program, where I gained insight into public sector IT operations.
+
+SASA POLYESTER A.Ş – IT Department
+Ongoing internship between 24.02.2025 – 23.06.2025 as an IT intern.
+
+📫 Contact Me
+Email: ytrc13@gmail.com
+
+GitHub: github.com/yusuftrg13
