@@ -43,6 +43,7 @@ Merhaba! Ben Yusuf Turgay. Veri analizi, makine öğrenimi ve yazılım gelişti
 ### 📢 Bana Ulaşın  
 - **E-posta:** ytrc13@gmail.com  
 - **GitHub:** [github.com/yusuftrg13](https://github.com/yusuftrg13)
+- **LinkedIn:** https://www.linkedin.com/in/yusuf-turgay-ciğer-557a32362/
 
 ---
 
@@ -90,4 +91,5 @@ Currently training and working on projects in the field of machine learning.
 ### 📢 Contact Me  
 - **Email:** ytrc13@gmail.com  
 - **GitHub:** [github.com/yusuftrg13](https://github.com/yusuftrg13)
+- - **LinkedIn:** https://www.linkedin.com/in/yusuf-turgay-ciğer-557a32362/
 
