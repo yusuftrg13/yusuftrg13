@@ -25,8 +25,7 @@ Merhaba! Ben Yusuf Turgay. Veri analizi, makine öğrenimi ve yazılım gelişti
 ---
 
 ### 📁 Projelerimden Bazıları  
-- **🇷🇺 Rusya-Ukrayna Savaşı Kayıp Analizi:**  
-  Rusya'nın 2 yılı aşkın süredir süren savaşta personel ve ekipman kayıplarını analiz ederek zaman serisi tabanlı askeri kapasite değerlendirmesi yaptım.  
+
 - **🔫 Gun Violence USA:**  
   ABD'deki silahlı saldırıları incelediğim, eyalet bazlı Power BI görselleştirmeleriyle desteklenen analiz çalışması.
 
@@ -73,8 +72,7 @@ Currently training and working on projects in the field of machine learning.
 ---
 
 ### 📁 Selected Projects  
-- **🇷🇺 Russia-Ukraine War Losses Analysis:**  
-  A time-based analysis of Russian personnel and equipment losses to assess military capacity over the course of the war.  
+
 - **🔫 Gun Violence in the USA:**  
   A Power BI dashboard project exploring state-level trends in gun-related deaths and injuries.
 
