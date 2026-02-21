@@ -48,3 +48,4 @@ Hi! I'm Yusuf Turgay, a final-year Management Information Systems student and as
 - **Email:** ytrc13@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/yusuf-turgay-ciğer-557a32362/
 - **GitHub:** [github.com/yusuftrg13](https://github.com/yusuftrg13)
+- **MyBlog:** https://finansmetrik.com
